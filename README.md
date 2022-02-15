@@ -4,7 +4,7 @@
 
 ![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)
 
-# FuckComputer-Windows
+# FuckComputer-VB
 This is a **GREAT** program to fuck your computer!    
 It mixed other **GREAT** programs by FuckComputer together.
 For more information, see [FuckComputer](https://github.com/FuckComputer).
