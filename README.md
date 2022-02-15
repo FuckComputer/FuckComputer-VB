@@ -29,6 +29,8 @@ And it will work!
 > *Windows is a piece of SHIT!*  
 > -- Chi\_Tang
 
+> **This program is incompatible with Wine because the missing of Microsoft XML 6.0 library, and it will crash with Runtime Error 62. Adding this library to your Wine prefix might help.**
+
 ## Usage
 Follow the instructions in the program.
 
