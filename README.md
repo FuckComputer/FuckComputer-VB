@@ -2,7 +2,7 @@
 >
 > -- Chi\_Tang
 
-[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)
+![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)
 
 # FuckComputer-Windows
 This is a **GREAT** program to fuck your computer!    
@@ -12,6 +12,7 @@ For more information, see [FuckComputer](https://github.com/FuckComputer).
 ## Compile from source code
 ### Dependencies
 - Microsoft Visual Basic 6 IDE
+- Make My Manifest (If want to compile with Common Controls 6.0 library)
 
 ## Run directly
 ### Dependencies
